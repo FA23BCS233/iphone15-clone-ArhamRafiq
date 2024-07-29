@@ -11,7 +11,7 @@ export default defineConfig({
     org: "jsm-vu",
     project: "javascript-react"
   })],
-  // base : "/iphone-15-pro-clone/",
+  base : "/iphone15-clone-ArhamRafiq/",
   build: {
     sourcemap: true
   },
